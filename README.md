@@ -10,4 +10,4 @@ D3 Interactive Chart
 Visually updates based on the variation of data bound to the SVG elements 
  
 ##How do you use it?
-Filter the data based on click events and text based input from HTML buttons and a textfield 
+Filter the data based on click events and text based input from HTML buttons and a textfield # interactivedatacharts
